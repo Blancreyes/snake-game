@@ -45,3 +45,7 @@ body {
 .playboard .food {
   background: #ff003d;
 }
+
+.playboard .snake {
+  background: #60cbff;
+}
